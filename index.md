@@ -1,4 +1,4 @@
-Home - [Dates](dates.md) - Submission - [Organization](organization.md)
+Home - [Dates](dates.md) - Submission - [Organization](organization.md) - [Contact](contact.md)
 
 ---
 
