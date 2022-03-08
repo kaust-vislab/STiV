@@ -1,6 +1,7 @@
-[Home](index.md) - [Dates](dates.md) - Submission - Organization
+[Home](index.md) - [Dates](dates.md) - [Submission](submission.md) - Organization - [Contact](contact.md)
 
 ---
+
 
 # Organizing Committee
 
