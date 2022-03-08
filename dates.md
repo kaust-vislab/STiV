@@ -1,4 +1,4 @@
-[Home](/STiV/index/) - Dates - Submission - [Organization](/STiV/organization/)
+[Home](index.md) - Dates - Submission - [Organization](organization.md)
 
 ---
 
